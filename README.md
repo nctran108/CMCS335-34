@@ -5,6 +5,7 @@ Quick setup — if you’ve done this kind of thing before.
 
 Get started by creating a new file or uploading an existing file.
 create a new repository on the command line
+
 echo "# CMCS335-34" >> README.md
 git init
 git add README.md
