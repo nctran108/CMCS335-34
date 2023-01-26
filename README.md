@@ -1,6 +1,6 @@
 # CMCS335-34
 
-Quick setup — if you’ve done this kind of thing before
+Quick setup — if you’ve done this kind of thing before.
 git clone https://github.com/nctran108/CMCS335-34.git
 
 Get started by creating a new file or uploading an existing file.
